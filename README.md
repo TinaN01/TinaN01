@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tina Nemade</h1>
 
-<h3 align="center">Cloud Engineer at Capgemini</h3>
+<h3 align="center">DevOps Engineer at Capgemini</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="80"/>
