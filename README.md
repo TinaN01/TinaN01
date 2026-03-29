@@ -17,7 +17,7 @@ AWS | Azure | Terraform | CI/CD | Kubernetes
 
 <h2>🚀 About Me</h2>
 <ul>
-  <li>💼 Cloud Engineer at <b>Capgemini</b></li>
+  <li>💼 DevOps Engineer at <b>Capgemini</b></li>
   <li>☁️ Working on scalable cloud solutions</li>
   <li>⚙️ Focused on automation & Infrastructure as Code</li>
   <li>🔄 Building CI/CD pipelines</li>
